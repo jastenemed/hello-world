@@ -1,2 +1,2 @@
 # hello-world
-this repository is made for school purposes by jastene medrano.
+Hi! My name is jastene medrano from BSIT 4 Block 1.
